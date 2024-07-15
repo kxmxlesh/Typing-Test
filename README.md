@@ -1,6 +1,4 @@
-# Typing-Test
-
-### Project Description: Speed Typing Test
+### Project Description: Typing Test
 
 This project is a Speed Typing Test application built using HTML, CSS (Bootstrap), and JavaScript. The application tests the user's typing speed by providing a random quote that the user needs to type within a given time frame. The key functionalities include fetching random quotes, timing the user's typing, and providing immediate feedback on the user's input. 
 
